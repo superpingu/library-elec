@@ -1,2 +1,2 @@
 # library-elec
-Centralisé les différentes bibliothèques du club
+Centralised repository for useful Eagle parts libraries
